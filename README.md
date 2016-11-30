@@ -7,4 +7,5 @@
 > Vem vet...
 
 [Käytto-ohjeet](https://github.com/sebfrisk/otm/blob/master/dokumentointi/kaytto-ohje.md)
+
 [Hieno kuva](https://github.com/sebfrisk/otm/blob/master/dokumentointi/maarittelydokumentti.md)
