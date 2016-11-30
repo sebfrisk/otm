@@ -4,4 +4,4 @@
 **borde vara tjockt**
 > blockquote
 
-[Käytto-ohjeet](http://github.com/sebfrisk/kertaus/dokumentointi/kaytto-ohje.md)
+[Käytto-ohjeet](https://github.com/sebfrisk/otm/blob/master/dokumentointi/kaytto-ohje.md)
